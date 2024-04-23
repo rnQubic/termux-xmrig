@@ -10,7 +10,7 @@ After installing Termux, first run `pkg install git` to install Git upon opening
 
 3.Enter
 ```
-git clone https://github.com/TokiZeng/termux-xmrig
+git clone https://github.com/rnQubic/termux-xmrig
 ```
 4.Enter
 ```
@@ -118,11 +118,11 @@ chmod +x build.sh
 
 有兩種啟動XMRig的方式，如下所述。
 
-**第一種方法：**在根目錄使用 `start`
+**第一種方法：**在~根目錄使用 `start`
 
 1. 輸入 `cd` 回到根目錄。您可以首先執行 `./start` 測試XMRig是否正常運作。在過程中，按 `H` 來監測每個核心的哈希率。要結束測試，按 `ctrl+c`（在移動的Termux上，虛擬ctrl鍵位於螢幕左下方）。
 
-2. 輸入 `nano start` 來編輯XMRig的挖礦參數（或使用vim，取決於您的偏好）。編輯完成後，按 `ctrl+o` 保存，隨後按 `ctrl+x` 退出。
+2. 輸入 `nano start` 來編輯XMRig的挖礦參數（或使用vim，取決於您的偏好）。編輯完成後，按 `ctrl+o` &&  enter 保存，隨後按 `ctrl+x` &&  enter退出。
 
 3. 修改完成後，每次啟動Termux時只需輸入 `./start` 即可運行挖礦程序。
 
