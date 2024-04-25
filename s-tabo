@@ -1,0 +1,3 @@
+#This is an execution template, please modify it yourself
+
+./termux-xmrig/xmrig/build/xmrig -a rx/0 -o sg.mining4people.com:3348 -u TBs1ZW51mjHaaAHvfyHnHwgF4XX2U4UtQ1Z96CU5ASjcb29VbrRs8PT7uYZJoVQDvZG4sM6FDiXyUUinh8tPZMwy88kJ3ThMWA -p x --cpu-max-threads-hint=100
