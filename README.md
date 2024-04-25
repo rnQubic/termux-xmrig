@@ -1,4 +1,5 @@
 # termux-xmrig
+# 参考：TokiZeng
 Create an XMRig script in Termux.
 
 Instructions:
