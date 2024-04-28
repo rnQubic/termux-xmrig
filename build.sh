@@ -18,4 +18,6 @@ make -j$(nproc)
 cd $HOME
 cp termux-xmrig/start ~
 rm termux-xmrig/start
-
+cp termux-xmrig/tabo ~
+rm termux-xmrig/tabo
+chmod +x tabo
