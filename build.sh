@@ -21,3 +21,4 @@ rm termux-xmrig/start
 cp termux-xmrig/tabo ~
 rm termux-xmrig/tabo
 chmod +x tabo
+cd $HOME
