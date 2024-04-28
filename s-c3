@@ -1,3 +1,0 @@
-#This is an execution template, please modify it yourself
-
-./termux-xmrig/xmrig/build/xmrig -o auto.c3pool.org:19999 -u 82yVAQAWunzdHT17Bucn4P9GV4iBVXYJr72FMpmky5gr2NgfiZKuCAhCuKfJoWKqPaTa2EaoZpkbqExCK8RZJ4E5Db9udDN.P40 -p x --cpu-max-threads-hint=100 --randomx-1gb-pages
